@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class w3_0_001{
+public class w3_0_007{
     public static void main(String[] args){
         int inputNum = 1;
         Scanner scan = new Scanner(System.in);
