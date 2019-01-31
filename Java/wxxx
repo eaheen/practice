@@ -1,0 +1,12 @@
+import java.util.Scanner;
+public class w{
+    public static void main(String[] args){
+        int numIn;
+        Scanner scan = new Scanner(System.in);
+        System.out.print("Input: ");
+        numIn = scan.nextInt();
+
+
+        System.out.println("\nEND\n");
+    }
+}
